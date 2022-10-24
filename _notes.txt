@@ -1,0 +1,6 @@
+portfolio diversification -> RoC
+
+Equally distributed / allocated PF is diagonal line
+-> other portfolios will be else ->
+
+-> Area under the curve = measure for degree of allocation
